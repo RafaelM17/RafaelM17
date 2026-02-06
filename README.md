@@ -12,7 +12,7 @@
 
 
 🤖 Linguagens e Tecnologias
-<div align="center">
+<div >
 
 <img alt="HTML" title="HTML" width="35px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
