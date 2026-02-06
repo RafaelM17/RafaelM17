@@ -1,4 +1,4 @@
-<div >
+<div align="center">
 
 <h2>Olá, eu sou Rafael Moura 👋</h2>
 
