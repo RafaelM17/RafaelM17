@@ -1,12 +1,15 @@
-<div > <p style="font-size:130%">
-Hello, i'm <h2 style="color:black" >Rafael Moura  </h2> <h2>💻🐕⚽ </h1></p> </div>
+<div align="center">
+
+<h2>Olá, eu sou Rafael Moura 👋</h2>
+
+<p style="font-size: 18px;">
+  💻 Desenvolvedor &nbsp;•&nbsp; 🐕 Dog lover &nbsp;•&nbsp; ⚽ Futebol
+</p>
+
+</div>
 
 
 
-
-✨![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)✨
 
 🤖 Linguagens e Tecnologias
 
