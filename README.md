@@ -1,4 +1,4 @@
-<div align="center">
+<div >
 
 <h2>Olá, eu sou Rafael Moura 👋</h2>
 
@@ -11,7 +11,7 @@
 
 <div>
 
-<img alt="HTML" title="HTML" 
+<img alt="HTML" title="HTML" width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
 <img alt="CSS" title="CSS" width="35"
