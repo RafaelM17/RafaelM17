@@ -21,6 +21,12 @@
 
 <br/>
 <br/>
+<div align="center"> 
+  <br/>
+  [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/faely)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-moura-pcd-598b85b7/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_rafam_x/?hl=pt)
+  <br/>
 
 </div>
 
