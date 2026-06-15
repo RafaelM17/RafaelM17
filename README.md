@@ -3,7 +3,7 @@
 <h2>Olá, eu sou Rafael Moura 👋</h2>
 
 <p style="font-size: 18px;">
-  💻 Desenvolvedor &nbsp;•&nbsp; 🐕 Dog  &nbsp;•&nbsp; ⚽ Futebol
+  💻 Desenvolvedor Fullstack &nbsp;•&nbsp; 🐕 Dog  &nbsp;•&nbsp; ⚽ Futebol
 </p>
 
 <br/>
